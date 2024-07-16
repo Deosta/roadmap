@@ -1,0 +1,1 @@
+The organization of data and the structure in which it is organized has a direct impact on the work that can be done on that data. The ability to recognize and utilize the best suited structure to a given problem is the difference between a functional and efficient solution or one that isn't.
