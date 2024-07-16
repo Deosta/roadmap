@@ -1,1 +1,1 @@
-I will be using python as my language of choice while refreshing, reinforcing, learning DS&A.
+I will mainly be using Python as my language of choice while refreshing, reinforcing, learning DS&A. C# will be utilized in situations where Python can not be utilized.
