@@ -1,0 +1,1 @@
+I will be using python as my language of choice while refreshing, reinforcing, learning DS&A.
